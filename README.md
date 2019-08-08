@@ -7,4 +7,4 @@ Here's the YouTube link of the whole project demo.
 https://youtu.be/ILxFXosVULI
 
 Locally: It is stored at 
-#...\Documents\Camtasia
+...\Documents\Camtasia
